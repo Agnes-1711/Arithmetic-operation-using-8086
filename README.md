@@ -56,9 +56,10 @@ END
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
-
+| -1200 31---------------------- | 1204 62------------------------ |
+|  1201 12                       | 1205 24                         |
+   1202 31                         1206 00
+   1203 12                         1207 C4
 #### Manual Calculations
 
 (Add your calculation here)
@@ -66,6 +67,11 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+
+![MASM add1 1](https://github.com/user-attachments/assets/5e44b5a4-3607-4e09-8a7a-5a137506a8a8)
+
+![MASM add1](https://github.com/user-attachments/assets/a20f2aeb-59a7-401b-abf9-950d874ad3f8)
 
 ## 2. SUBTRACTION
 
@@ -89,9 +95,10 @@ END
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
-
+| 1200 31----------------------- | 1204 00----------------------- |
+| 1201 12                        | 1205 00                        |
+  1202 31                          1206 00
+  1203 12                          1207 C4
 #### Manual Calculations
 
 (Add your calculation here)
@@ -100,8 +107,10 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![MASM sub 2](https://github.com/user-attachments/assets/6d904536-c4aa-4332-be5e-1d56c20131d1)
+![MASM sub 2 1](https://github.com/user-attachments/assets/8ba53830-4e9b-4cf6-8f80-6ba8c7c65335)
 
-## 3. MULTIPLICATION
+## 3.MULTIPLICATION
 
 #### Algorithm
 
@@ -183,9 +192,10 @@ END
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
-
+| 1200 31 --------------------- | 1204 01------------------------ |
+| 1201 12                      |  1205 00                
+  1202 31                         1206 00
+  1203 12                         1207 00
 #### Manual Calculations
 
 (Add your calculation here)
@@ -193,7 +203,8 @@ END
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-
+![MAS![MASM div 4](https://github.com/user-attachments/assets/908544bd-d6c5-414e-b5ba-bd4186c5190e)
+M div 4 1](https://github.com/user-attachments/assets/6cff729d-4f0c-4843-a49d-9e85c43dd540)
 
 ## RESULT
 
