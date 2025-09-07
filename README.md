@@ -69,6 +69,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![MASM add1](https://github.com/user-attachments/assets/0201d116-5055-4422-ae41-50c4abd13dba)
+![MASM add1 1](https://github.com/user-attachments/assets/084adfcc-9b56-446b-8d7a-bba7fb6caa06)
 
 ## 2. SUBTRACTION
 
@@ -107,6 +109,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![MASM sub 2](https://github.com/user-attachments/assets/d8dd66be-1725-4159-8826-ac345acbb6fa)
+![MASM sub 2 1](https://github.com/user-attachments/assets/12d2a0cc-08d5-404d-a027-04a199d7ef59)
 
 ## 3. MULTIPLICATION
 
@@ -158,6 +162,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![MASM mul 3 1](https://github.com/user-attachments/assets/4b0c3bbe-7a11-4946-8c41-67b526a9509e)
+![MASM mul 3](https://github.com/user-attachments/assets/69b8bd17-3c86-4478-8364-5760685c360c)
 
 ## 4. DIVISION
 
@@ -205,6 +211,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+![MASM div 4 1](https://github.com/user-attachments/assets/bf1aa388-0bf0-4098-a123-b93a6465d2aa)
+![MASM div 4](https://github.com/user-attachments/assets/5ac4cb80-7c57-4c92-9850-8664f27f288e)
 
 
 
