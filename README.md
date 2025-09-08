@@ -63,7 +63,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+
 ![add manual](https://github.com/user-attachments/assets/5dd34b4f-d05b-48f3-94d3-c5a29b5949d7)
 
 ---
@@ -122,7 +122,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+
 ![sub manual](https://github.com/user-attachments/assets/2093e9ca-1280-4662-a158-a2f415164b21)
 
 ---
@@ -177,7 +177,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+
 ![mul manual](https://github.com/user-attachments/assets/fb79f06a-d9e7-435d-bce8-079edfc89507)
 
 ---
@@ -228,7 +228,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+
 ![div manual](https://github.com/user-attachments/assets/658bd10b-33f7-46cb-870f-35ba0978388c)
 
 ---
