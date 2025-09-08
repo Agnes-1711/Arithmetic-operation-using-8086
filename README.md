@@ -61,14 +61,14 @@ END
 | 1202: 31                | 1206: 00                 |
 | 1203: 12                | 1207: C4                 |
 #### Manual Calculations
-<img width="201" height="349" alt="image" src="https://github.com/user-attachments/assets/caa07a0b-02d3-4841-8363-81506e3b02ea" />
+![add manual](https://github.com/user-attachments/assets/60e7b078-3770-40b2-a9c6-5eebbf4e9e2a)
 
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="631" height="399" alt="image" src="https://github.com/user-attachments/assets/a56fb8ab-7791-4c82-b3ff-5ea2435b9361" />
+![ayesha add 1 1](https://github.com/user-attachments/assets/fbd445c0-7dac-4149-881a-561db2fd018f)
+![ayesha add 1](https://github.com/user-attachments/assets/d09ead2c-b6d8-4b1b-a356-df1328c7aa1f)
 
-<img width="628" height="390" alt="image" src="https://github.com/user-attachments/assets/3be45d1f-248e-40f8-8754-423e6a57347f" />
 
 
 ## 2. SUBTRACTION
@@ -116,15 +116,12 @@ END
 |  1202: 31               |  1206:   00              |
 |  1203: 12               |  1207:   C4              |
 #### Manual Calculations
-<img width="214" height="346" alt="image" src="https://github.com/user-attachments/assets/0bb96f56-eb1a-4c27-88e8-d2393bd1d440" />
-
-
+![sub manual](https://github.com/user-attachments/assets/491dff03-79b6-4264-9b3b-7fca75aa27db)
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="629" height="395" alt="image" src="https://github.com/user-attachments/assets/2aefc735-2027-41d2-8487-4d4b6ed605b5" />
-
-<img width="629" height="392" alt="image" src="https://github.com/user-attachments/assets/39e20cec-937c-42a7-abbf-7471aa31401f" />
+![ayesha sub 2 1](https://github.com/user-attachments/assets/6224d2f5-3464-442c-b8b4-7ff939c30eed)
+![ayesha sub 2](https://github.com/user-attachments/assets/34af3e33-3506-4d8d-8874-62b18f37d02a)
 
 
 
@@ -170,13 +167,14 @@ END
 |  1202: 31               | 1206: 00                 |
 |  1203: 12               | 1207: C4                 |
 ### Manual Calculations
+![mul manual](https://github.com/user-attachments/assets/02ebf155-2204-4395-b236-e0269a12da30)
 
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="636" height="397" alt="image" src="https://github.com/user-attachments/assets/fa29133e-7c19-4c7e-86ba-f793f14583f7" />
+![ayesha mul 3](https://github.com/user-attachments/assets/49edb8d2-22e7-46d4-b1c2-3ee7324485da)
+![ayesha mul 3 1](https://github.com/user-attachments/assets/4940983d-0a67-49bf-b755-1d0556ad574c)
 
-<img width="634" height="394" alt="image" src="https://github.com/user-attachments/assets/d0513b33-8a08-469f-95a4-a2ea38849ff1" />
 
 
 ## 4. DIVISION
@@ -218,16 +216,12 @@ END
 |  1203: 12               | 1207: 00                 |
 
 #### Manual Calculations
-<img width="188" height="351" alt="image" src="https://github.com/user-attachments/assets/e281e3d7-865a-46bd-a50c-b80e9b8aafd2" />
-
-
-
+![div manual](https://github.com/user-attachments/assets/757b4a07-5965-4f2a-bac8-40aa0b120291)
 
 ## OUTPUT FROM MASM SOFTWARE
+![ayesha div 4](https://github.com/user-attachments/assets/2121e735-59cf-408b-acaf-51d2372a0913)
+![ayesha div 4 1](https://github.com/user-attachments/assets/d7ae1400-0f80-4b8e-b091-c05941988a42)
 
-<img width="637" height="398" alt="image" src="https://github.com/user-attachments/assets/4321ba9c-109c-4c7d-8604-eea36a37e433" />
-
-<img width="624" height="386" alt="image" src="https://github.com/user-attachments/assets/f776ddb7-ec7f-4a8b-b186-f081eb5e292f" />
 
 
 
